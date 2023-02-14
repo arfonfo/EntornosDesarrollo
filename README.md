@@ -1,2 +1,2 @@
-# EntornosDesarrollo
-Repositorio dedicado a la asignatura Entornos de Desarrollo de IESJosePlanes
+# Entornos de Desarrollo
+Repositorio dedicado a la asignatura Entornos de Desarrollo de IES Jose Planes
